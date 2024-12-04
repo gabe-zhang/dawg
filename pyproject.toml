@@ -1,0 +1,13 @@
+[project]
+name = "dawg"
+description = "Dawg: your AI-powered home buddy"
+version = "0.1.0"
+readme = "README.md"
+dependencies = [
+  "smbus2",
+  "azure-iot-device"
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
