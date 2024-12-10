@@ -57,7 +57,7 @@ dawg/
 
 1\. Clone the repository:
 ```bash
-git clone https://github.com/yuanzzhang/dawg.git
+git clone https://github.com/gabe-zhang/dawg.git
 cd dawg
 ```
 
@@ -141,5 +141,5 @@ The system consists of three main components:
 
 ## Contributors
 
-- [Gabriel Zhang](https://github.com/yuanzzhang)
+- [Gabriel Zhang](https://github.com/gabe-zhang)
 - Zhenghao Wang
